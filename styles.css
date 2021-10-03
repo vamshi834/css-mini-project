@@ -1,0 +1,19 @@
+#iplteams {
+    padding: 50px 50px 50px 50px;
+}
+
+.teamInfoText {
+    padding-left: 90px;
+    color: gold;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("assets/ground.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    padding-left: 600px;
+}
